@@ -1,0 +1,7 @@
+The quick brown fox jumps over the lazy dog
+
+A for apple
+B for ball
+C for cat
+
+This is the file that will be read in our main.go file
