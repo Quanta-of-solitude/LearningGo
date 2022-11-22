@@ -8,10 +8,10 @@ import (
 var db *gorm.DB
 
 type Book struct {
-	gorm.model
+	gorm.Model
 	Name        string `gorm:""json:"name"`
 	Author      string `json: "author"`
-	Publication string `json:"pubication"`
+	Publication string `json:"publication"`
 }
 
 func init() {
