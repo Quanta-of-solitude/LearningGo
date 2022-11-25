@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "waitgroup"
+		},
+		{
+			"path": "race_conditions"
+		}
+	]
+}
