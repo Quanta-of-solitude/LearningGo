@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "race_conditions"
+		},
+		{
+			"path": "ProducerConsumerProblem"
 		}
 	]
 }
