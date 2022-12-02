@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "ginServer"
+		},
+		{
+			"path": "ginCRUD"
+		},
+		{
+			"path": "golang-jwt-project"
+		}
+	]
+}
